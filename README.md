@@ -5,9 +5,7 @@
 
 <p align="center">
   <b>
-    <img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Front-end-development-web-development-others-inmotus-design-2.png" width="20"/> 
     Front-End Developer | 
-    <img src="https://img.icons8.com/external-filled-outline-lima-studio/64/000000/external-backend-web-development-filled-outline-lima-studio.png" width="20"/> 
     Aspiring Full-Stack Engineer
   </b><br/>
   Passionate about building responsive web apps and growing my skills in modern web technologies.
@@ -27,12 +25,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedNasserG&theme=github_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcodinggg&theme=github_dark" width="100%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedNasserG&theme=github-dark-blue&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedNasserG&show_icons=true&theme=github_dark&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcodinggg&theme=github-dark-blue&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mcodinggg&show_icons=true&theme=github_dark&include_all_commits=true" width="48%"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedNasserG&theme=github-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcodinggg&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -76,7 +74,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,react,nodejs,express,mongodb,git,figma,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,react,nodejs,express,mongodb,git,cursor,figma,vscode&perline=6"/>
 </p>
 
 ---
