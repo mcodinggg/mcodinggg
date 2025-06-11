@@ -36,6 +36,8 @@
 ### 🔭 Roadmap to Full-Stack 🚀
 
 - [x] <img src="https://img.icons8.com/color/48/000000/html-5.png" width="15"/> HTML, <img src="https://img.icons8.com/color/48/000000/css3.png" width="15"/> CSS, <img src="https://img.icons8.com/color/48/000000/javascript.png" width="15"/> JavaScript
+- [x] <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="15"/> C++
+- [x] <img src="https://img.icons8.com/color/48/000000/python.png" width="15"/> Python
 - [x] <img src="https://img.icons8.com/color/48/000000/responsive-design.png" width="15"/> Responsive Design
 - [x] <img src="https://img.icons8.com/color/48/000000/git.png" width="15"/> Git & GitHub
 - [x] <img src="https://img.icons8.com/office/40/000000/react.png" width="15"/> React.js
@@ -74,6 +76,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
