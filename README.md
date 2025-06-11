@@ -1,45 +1,71 @@
-# Mohamed Nasser - Full Stack Developer
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+  Hey! I'm Mohamed Nasser
+</h1>
 
-Hello there! 👋 I'm Mohamed Nasser, a passionate Full Stack Developer with expertise in multiple programming languages and web technologies. I enjoy creating efficient, scalable, and user-friendly applications.
+<p align="center">
+  <b>Front-End Developer | Aspiring Full-Stack Engineer</b><br/>
+  Passionate about building responsive web apps and growing my skills in modern web technologies.
+</p>
 
-## 🛠️ Technologies & Skills
+---
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧑‍💻 About Me
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🖥️ I'm a 19-year-old developer from Egypt with a focus on **Front-End development**.
+- 🌱 Currently learning **Node.js**, **Express**, and **MongoDB** to become a Full-Stack Developer.
+- 💡 Interested in **React.js**, **JavaScript**, **UI/UX**, and building cool web experiences.
+- 📚 Studying Computing & Bioinformatics @ Benha University.
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+---
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🔭 Roadmap to Full-Stack 🚀
 
-## � Roadmap to Full Stack Development
+- [x] HTML, CSS, JavaScript
+- [x] Responsive Design (Media Queries, Flexbox, Grid)
+- [x] Git & GitHub
+- [x] React.js
+- [ ] Node.js + Express.js
+- [ ] MongoDB & Mongoose
+- [ ] REST APIs
+- [ ] Authentication (JWT / OAuth)
+- [ ] Deployment (Vercel / Render / Heroku)
+- [ ] TypeScript & Next.js
+- [ ] CI/CD + Testing
 
-```mermaid
-graph TD
-    A[Fundamentals] --> B[HTML/CSS/JS]
-    B --> C[Frontend Framework]
-    C --> D[Backend Development]
-    D --> E[Database]
-    E --> F[DevOps]
-    F --> G[Full Stack Mastery]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+---
 
-📞 Contact Information
-WhatsApp/Telegram: +20 106 196 4236
+### 📫 Connect With Me
 
-LinkedIn: Mohamed Nasser
+<p>
+  <a href="https://github.com/MohamedNasserG" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-nasser-9588a533b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201061964236" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/+201061964236" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
-🏆 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=radical
+---
+
+### 🛠 Tech Stack
+
+- Front-End: **HTML**, **CSS**, **JavaScript**, **React**
+- Back-End (Learning): **Node.js**, **Express.js**
+- Tools: **Git**, **GitHub**, **VSCode**, **Figma**
+
+---
+
+### 📌 Projects (Coming Soon...)
+
+I'm currently building and contributing to several exciting projects. Stay tuned for updates!
+
+---
+
+<p align="center">Thanks for visiting! 🚀 Let's build something amazing.</p>
