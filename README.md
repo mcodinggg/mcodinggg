@@ -18,7 +18,7 @@
 - 🖥️ I'm a 19-year-old developer from Egypt with a focus on **Front-End development**.
 - 🌱 Currently learning **Node.js**, **Express**, and **MongoDB** to become a Full-Stack Developer.
 - 💡 Interested in **React.js**, **JavaScript**, **UI/UX**, and building cool web experiences.
-- 📚 Studying Computing & Bioinformatics @ Benha University.
+- 📚 Studying Computing & Bioinformatics @Benha University, Obour Campus  .
 
 ---
 
@@ -81,7 +81,7 @@
 
 ### 📌 Projects 
 
-- Responsive layout and modern UI elements.
+- **Responsive layout and modern UI elements.**
 - **Bioinformatics Al-3bour Website** – Informational multi-section website with clean layout and structured content.
 - **To-Do List App** – Simple task manager allowing users to add, edit, delete, and mark tasks as done.
 - **Quote Generator** – App that displays a random motivational quote on button click, styled with CSS animations.
@@ -89,6 +89,22 @@
 - **Quiz Web App** – Fun quiz interface with multiple choice questions, score tracking, and a timer.
 - **Weather App** – Displays current weather conditions based on city input using a public API.
 - **Bookmark Manager** – Tool to save and manage favorite website links directly in the browser using local storage.
+
+---
+
+### 🧠 Certificates & Courses
+
+- **Front-End Web Development**  
+- **Git & GitHub Basics**
+- **C++ Programming for Problem Solving**  
+- **Building Responsive Websites with HTML & CSS**  
+- **Java Programming Essentials**  
+- **Python for Data Analysis**  
+- **Algorithms & Data Structures Foundations**  
+- **Personal Portfolio Development Project**  
+- **Introduction to Bioinformatics Tools & Databases**  
+- **AI Tools for Productivity & Coding (e.g. ChatGPT)**
+
 
 ---
 
