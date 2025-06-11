@@ -71,36 +71,25 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coding-%F0%9F%96%8C%EF%B8%8F-30363D?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,react,nodejs,express,mongodb,git,vscode,figma,bash,openai&perline=6" />
 </p>
 
 ---
 
-### 📌 Projects (Coming Soon...)
--responsive layout and modern UI elements.
--Bioinformatics Al-3bour Website – Informational multi-section website with clean
-layout and structured content.
--To-Do List App – Simple task manager allowing users to add, edit, delete, and mark
-tasks as done.
--Quote Generator – App that displays a random motivational quote on button click,
-styled with CSS animations.
--Smart Login UI – Login and signup pages with client-side validation and friendly
-error handling.
--Quiz Web App – Fun quiz interface with multiple choice questions, score tracking,
-and a timer.
--Weather App – Displays current weather conditions based on city input using a
-public API.
--Bookmark Manager – Tool to save and manage favorite website links directly in the
-browser using local storage.
+### 📌 Projects 
+
+- Responsive layout and modern UI elements.
+- **Bioinformatics Al-3bour Website** – Informational multi-section website with clean layout and structured content.
+- **To-Do List App** – Simple task manager allowing users to add, edit, delete, and mark tasks as done.
+- **Quote Generator** – App that displays a random motivational quote on button click, styled with CSS animations.
+- **Smart Login UI** – Login and signup pages with client-side validation and friendly error handling.
+- **Quiz Web App** – Fun quiz interface with multiple choice questions, score tracking, and a timer.
+- **Weather App** – Displays current weather conditions based on city input using a public API.
+- **Bookmark Manager** – Tool to save and manage favorite website links directly in the browser using local storage.
+
 ---
 
 <p align="center">
