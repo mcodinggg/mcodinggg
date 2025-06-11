@@ -74,18 +74,30 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,react,nodejs,express,mongodb,git,cursor,figma,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,react,nodejs,express,mongodb,git,cursor,figma,vscode&perline=7"/>
 </p>
 
 ---
 
 ### 📌 Projects (Coming Soon...)
-
-I'm currently building and contributing to several exciting projects. Stay tuned for updates!
-
+-responsive layout and modern UI elements.
+-Bioinformatics Al-3bour Website – Informational multi-section website with clean
+layout and structured content.
+-To-Do List App – Simple task manager allowing users to add, edit, delete, and mark
+tasks as done.
+-Quote Generator – App that displays a random motivational quote on button click,
+styled with CSS animations.
+-Smart Login UI – Login and signup pages with client-side validation and friendly
+error handling.
+-Quiz Web App – Fun quiz interface with multiple choice questions, score tracking,
+and a timer.
+-Weather App – Displays current weather conditions based on city input using a
+public API.
+-Bookmark Manager – Tool to save and manage favorite website links directly in the
+browser using local storage.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedNasserG&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mcodinggg&style=flat-square&color=blue" alt="Profile Views"/>
   Thanks for visiting! 🚀 Let's build something amazing.
 </p>
